@@ -39,6 +39,18 @@
   height: 3px;
   background-color: var(--color-orange);
 }
+.skill__value2 {
+  height: 3px;
+  background-color: var(--color-blue);
+}
+.skill__value3 {
+  height: 3px;
+  background-color: var(--color-dark-pink);
+}
+.skill__value4 {
+  height: 3px;
+  background-color: var(--color-purple);
+}
 
 .skillset__right {
   flex-basis: 40%;
